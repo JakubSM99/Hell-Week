@@ -19,13 +19,12 @@ def Answer(Yes_Or_No):
 
     try:
         if(Answer == "Yes"):
-            Count = 0
             Random_Number = random.randrange(1, 257)
             print("Now take your guess:")
-            Counting = Count + 1
+            Count = 1
             try:
                 Guessed_Number = int(input())
-                Game(Random_Number, Guessed_Number, Counting)
+                Game(Random_Number, Guessed_Number, Count)
             except:
                 SmartAss()
 
