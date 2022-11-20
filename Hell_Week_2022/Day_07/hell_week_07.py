@@ -24,6 +24,7 @@ def kwadrat(a):
     pole = a*a
     return pole
 
+
 def trojkat(a,h):
     pole = (a*h)/2
     return pole
@@ -38,6 +39,7 @@ def kolo(r):
     pole = r*r*3.14
     return pole
 
+
 def spr_figur(list_a):
     for x in list_a:
         try:
@@ -46,13 +48,11 @@ def spr_figur(list_a):
                 pole = kwadrat(a)
                 print("Pole kwadratu jest rowne: ", pole)
 
-
             elif x[0] == "trojkat":
                 a = int(x[1])
                 h = int(x[2].strip())
                 pole = trojkat(a,h)
                 print("Pole trojkata jest rowne: ", pole)
-
 
             elif x[0] == "trapez":
                 a = int(x[1])
@@ -61,12 +61,10 @@ def spr_figur(list_a):
                 pole = trapez(a,b,h)
                 print("Pole trapezu jest rowne: ", pole)
 
-
             elif x[0] == "kolo":
                 r = int(x[1].strip())
                 pole = kolo(r)
                 print("Pole kola jest rowne: ", pole)
-
                 
             else:
                 print("Podanej figury nie potrafie policzyc")
@@ -74,7 +72,9 @@ def spr_figur(list_a):
             print("""Podane wartosci, lub liczba argumentow, 
                     nie sa zgodne ze schematem!""")   
 
+
 def zliczanie_figur(list_a):
+
     kwadraty = 0
     trojkaty = 0
     trapezy = 0
@@ -97,9 +97,11 @@ def zliczanie_figur(list_a):
                 
             else:
                 inne += 0
+
         except:
             print("""Podane wartosci, lub liczba argumentow, 
                     nie sa zgodne ze schematem!""")  
+
 
     print("Tyle bylo kwadratow: ", kwadraty)
     print("Tyle bylo trojkatow: ", trojkaty)
@@ -128,7 +130,6 @@ def srednia_wartosc_pola(list_a):
                 kwadraty += 1
                 suma_pol_kwadratow += pole
 
-
             elif x[0] == "trojkat":
                 a = int(x[1])
                 h = int(x[2].strip())
@@ -152,10 +153,12 @@ def srednia_wartosc_pola(list_a):
 
             else:
                 pass
+
         except:
             print("""Podane wartosci, lub liczba argumentow, 
                     nie sa zgodne ze schematem!""") 
     
+
     srednie_pole_kwadratow = suma_pol_kwadratow/kwadraty
     print("Srednie pole Kwadratow to: ", srednie_pole_kwadratow)
 
@@ -168,7 +171,9 @@ def srednia_wartosc_pola(list_a):
     srednie_pole_kol = suma_pol_kol/kola
     print("Srednie pole kol to: ", srednie_pole_kol)
 
+
 def czytanie_pliku(f):
+    
     list_a = []
 
     for lines in f.readlines():
@@ -178,7 +183,6 @@ def czytanie_pliku(f):
     spr_figur(list_a)
     zliczanie_figur(list_a)
     srednia_wartosc_pola(list_a)
-
     
 
 with open("C:/Users/Jakub/Documents/GitHub/Hell-Week/Hell_Week_2022/Day_07/figures.txt") as f:
