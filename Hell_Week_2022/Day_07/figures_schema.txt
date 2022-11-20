@@ -1,0 +1,5 @@
+RODZAJ_FIGURY,reszta_informacji
+kwadrat,a
+trojkat,a,h
+trapez,a,b,h
+kolo,r

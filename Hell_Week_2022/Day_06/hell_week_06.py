@@ -1,4 +1,3 @@
-
 # Magiczne kwadraty
 
 # Napisz program, który sprawdzi, czy podany w pliku tekstowym kwadrat, jest kwadratem magicznym.
@@ -8,6 +7,7 @@
 # Załóż, że w podanym pliku tekstowym znajduje się tylko 1 magiczny kwadrat.
 
 # Dodatkowo niech program sprawdzi czy wszystkie wartości w kwadracie są unikalne.
+
 
 def spr_kolumn(lista1, lista2, lista3):
     kolumna_1 = int(lista1[0]) + int(lista2[0]) + int(lista3[0])
@@ -21,6 +21,7 @@ def spr_kolumn(lista1, lista2, lista3):
     else:
         a = "Kwadrat nie jest magiczny"
         return a
+
 
 def spr_lini(lista1, lista2, lista3):
     suma1 = 0
@@ -41,7 +42,8 @@ def spr_lini(lista1, lista2, lista3):
     else:
         a = "Kwadrat nie jest magiczny"
         return a
-    
+
+
 def spr_przekatnych(lista1, lista2, lista3):
     
     suma1 = int(lista1[0]) + int(lista2[1]) + int(lista3[2])
@@ -55,11 +57,13 @@ def spr_przekatnych(lista1, lista2, lista3):
         a = "Kwadrat nie jest magiczny"
         return a
 
+
 def unikalne(lista):
     if len(set(lista)) == len(lista):
         print("Wartosci kwadratu sa unikalne")
     else:
         print("Wartosci kwadratu nie sa unikalne")
+
 
 def kwadrat_magiczny(lista1, lista2, lista3):
     if spr_kolumn(lista1, lista2, lista3) == spr_lini(lista1, lista2, lista3):
@@ -72,6 +76,7 @@ def kwadrat_magiczny(lista1, lista2, lista3):
             print("Kwadrat nie jest magiczny")
     else:
         print("Kwadrat nie jest magiczny")
+
 
 def dzialania_na_kwadracie(f):
     
@@ -100,6 +105,9 @@ def dzialania_na_kwadracie(f):
 
     unikalne(list_a)
 
+
+# Kod działa tylko dla kwadratów 3x3, nie robiłem wersji ogólnej,
+# ale jeśli będzie trzeba, lub jak będę miał czasu więcej to z chęcią zrobię
 
 with open("C:/Users/Jakub/Documents/GitHub/Hell-Week/Hell_Week_2022/Day_06/magic_square_1.txt") as f:
     print("Odp. Dla 'Magic_square_1.txt' : ")
