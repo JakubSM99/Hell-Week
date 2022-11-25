@@ -18,7 +18,7 @@
 # - minimalna, maksymalna i średnia wartość pola poszczególnych rodzajów figur płaskich (np. kwadrat — min. pole = 1, maks. pole = 64, śr. pole = 30,2 itp)
 
 # UWAGA: Załóż, że w pliku figures.txt mogą znaleźć się figury, których pola program nie potrafi przeliczyć i obsłuż taką sytuację.
-
+from msth import pi
 
 def kwadrat(a):
     pole = a*a
@@ -36,7 +36,7 @@ def trapez(a,b,h):
 
 
 def kolo(r):
-    pole = r*r*3.14
+    pole = r*r*math.pi
     return pole
 
 
