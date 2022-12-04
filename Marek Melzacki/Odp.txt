@@ -1,0 +1,110 @@
+### Ogólne
+1. Kiedy był Twój start z programowaniem?
+
+2018 - Pierwsze studia informatyczne (Dzienne, IO na UWM)
+
+2. Czy robisz (teraz lub kiedyś) coś związanego z rozwojem osobistym?
+
+Obecnie:
+- Advent of code
+- Code Wars
+- Sololearn 
+- Zadania rekrutacyjne (jeśli takie otrzymuję)
+
+Wcześniej:
+- Kursy (różne)
+
+3. W jakich sytuacjach, z kim i kiedy odnosisz suckcesy oraz doprowadzasz swoje projekty do końca? 
+*Przez projekt rozumiemy wszystkie inicjatywy, szkołę, pracę, naukę, projekty na podstawie hobby, 
+nie tylko programistyczne.* **Chodzi o to kiedy działasz najproduktywniej**
+
+(Chodzi o to kiedy działasz najproduktywnie == 7. W jakich sytuacjach działasz z największą energią?) ??
+
+4. W jakich sytuacjach najczęściej, nie dowozisz projektów do końca, męczysz się lub poddajesz w trakcie?
+
+Gdy zabraknie mi motywacji, gdy nagroda lub termin już przeminął, kiedy wiem, że nie mam możliwości wykonania czegoś.
+
+5. Czy znasz swój ulubiony sposób nauki?
+
+Po przez praktykę
+
+6. Co Ciebie inspiruje do działania?
+
+Wizja przyszłości, widoczny progress, terminy, nagroda
+
+7. W jakich sytuacjach działasz z największą energią?
+
+Gdy jestem z motywowany, gdy robię coś co mnie interesuję, gdy robię coś co podoba się innym, gdy robię coś co mnie wyróżnia
+
+8. Gdyby Twoi znajomi / rodzina / współpracownicy mieli podać 2-3 Twoje najlepsze cechy, to co by powiedzieli?
+
+Opiekuńczy/Pomocny, Pracowity, 
+
+### Cele
+1. Jakie są Twoje cele krótkoterminowe (3-6 mscy)
+
+Dostać pracę w branży IT, bym mógł w praktyce zastosować to czego się uczę i móc uczyć się przez pracę 
+
+2. Jakie są Twoje cele długoterminowe (3 lata+)
+
+Stabilna pozycja na rynku, własne mieszkanie, własna firma, uzyskanie tytułu mag. inż., 
+podjęcie kolejnych kierunków studiów, wzięcie udziału w większej ilości kursów i uzyskanie certyfikatów
+
+3. W jakim obszarze chcesz się rozwijać?
+
+Python BackEnd, Flask, Docker, 
+
+4. Jakie umiejętności chcesz zdobyć?
+
+Wszystkie jakie można zdobyć, w kierunku rozwoju jaki zostanie obrany 
+
+5. Co uważasz za swoje mocne strony?
+
+Pracoholizm, możliwości i chęć poświęcania dużej ilości czasu na naukę, chęć próbowania nowych rzeczy
+
+6. Czy widzisz u siebie jakieś obszary do poprawy?
+
+Wszystko to czego jeszcze nie wiem, zastosowanie podstaw w bardziej płynny i zoptymalizowany sposób
+
+7. Czy masz już swoje CV / profil LinkedIn / Github profil?
+
+Tak, Tak, Tak
+
+8. Czy masz jakieś portfolio? / Czy chcesz je stworzyć?
+
+Nie wiem, Zdecydowanie
+
+### Zbieranie wiedzy
+1. Czy masz jakiś system / sposób do zapisywania zdobytej wiedzy? - Jaki?
+
+GitHub ?
+
+2. Czy chcesz poznać inne sposoby na gromadzenie wiedzy?
+
+Tak
+
+### Współpraca
+1. Dlaczego zgłosiłeś się na mentoring?
+
+Gdyż mam nadzieję i wierzę, że jest to coś, czego na ten moment mi potrzeba
+
+2. Czy uważasz, że go potrzebujesz? Jeżeli tak, to dlaczego?
+
+Tak, potrzebuję kogoś, kto pomoże mi upożądkować plany, myśli i wskaże drogę, oraz będzie lekkim batem nad głową 
+
+3. Jakie są Twoje oczekiwania wobec mentoringu?
+
+Pomoc w zmobilizowaniu się, wskazanie drogi, spełnienie potrzeb wymienionych wyżej
+
+4. Jakie są Twoje oczekiwania wobec mnie?
+
+Spełnienie oczekiwań wobec mentoringu? xD
+
+5. Ile czasu będziesz mieć na działanie związane z mentoringiem? (Poza studiami, pracą, rodziną, relacjami, odpoczynkiem i relaksem)
+
+Ile tylko się da, jeśli pomoże mi to znaleźć pracę, 
+to mogę nawet czas, który na studia poświęcam poświęcić na działania związane z mentoingiem
+
+6. W jakich godzinach/dniach będą najbardziej pasować Ci spotkania?
+
+jeśli brać pod uwagę inpost jako pracę (jeśli tam zostanę), to kończę pracę do 12 zwykle, tak też całe popołudnie-wieczór
